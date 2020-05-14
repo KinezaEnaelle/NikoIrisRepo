@@ -4,3 +4,19 @@
     margin: auto;
     height: auto;
 }
+#tribute-info ul{
+    margin: 60px auto;
+    width: 50%;
+}
+#tribute-info ul li{
+    line-height: 30px;
+}
+#tribute-info p{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+#tribute-info blockquote{
+    text-align: center;
+}
