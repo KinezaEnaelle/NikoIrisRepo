@@ -1,6 +1,22 @@
-#image{
-    max-width: 50%;
-    max-height: 50%;
-    margin: auto;
-    height: auto;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+#main {
+  margin: 2vh 0;
+}
+#image {
+  display: block;
+  max-width: 50%;
+  max-height: 50%;
+  margin: auto;
+  height: auto;
+}
+.thin-gold-border {
+  border-color: gold;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 100%x;
 }
